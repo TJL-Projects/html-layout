@@ -1,0 +1,49 @@
+.navBar {
+    height: 14vh;
+    width: 100%;
+    background-color: lightgrey;
+    padding: 2vh 2vw 0vh 2vw;
+}
+
+.profile {
+    height: 80px;
+    width: 80px;
+    background-color: royalblue;
+}
+
+.white {
+    height: 29.99vh;
+    width: 100%;
+
+}
+
+.blue {
+    height: 14vh;
+    width: 100%;
+    background-color: royalblue;
+
+}
+
+.teal {
+    height: 14vh;
+    width: 100%;
+    background-color: teal;
+}
+
+.green {
+    height: 14vh;
+    width: 100%;
+    background-color: seagreen;
+}
+
+.yellow {
+    height: 14vh;
+    width: 100%;
+    background-color: yellow;
+
+}
+
+p {
+    text-align: center;
+    margin: 10vh;
+}
